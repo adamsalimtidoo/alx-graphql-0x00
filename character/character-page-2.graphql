@@ -1,0 +1,9 @@
+
+query {
+character2: page(id: 2) {
+    id
+    name
+    status
+    image
+    }
+}
