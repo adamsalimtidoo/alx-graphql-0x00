@@ -1,0 +1,12 @@
+{
+  "data": {
+    "character": {
+      "id": "1",
+      "name": "Osman Dandawa",
+      "status": "Alive",
+      "species": "Human",
+      "type": "Black",
+      "gender": "Male"
+    }
+  }
+}
